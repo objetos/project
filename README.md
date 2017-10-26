@@ -36,4 +36,4 @@
 
 # Requisitos
 
-<Indique el lenguaje y los requerimientos esperados de la aplicación>
+<Indique el lenguaje y los requerimientos esperados de la aplicación. Liste las [librerías de Processing](https://processing.org/reference/libraries/) que se emplearían para su desarrollo.>
